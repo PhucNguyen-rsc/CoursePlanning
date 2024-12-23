@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	height: 100vh;
+	font-family: Garamond, sans-serif;
+	font-size: 1.25em;
+	text-align: center;
+	margin: auto;
+	margin-top: 0px;
+	padding: none;
+}
+
+.home-link {
+	position: absolute;
+	top: 0.25em;
+	left: 0.75em;
+}
+
+.login-status {
+	position: absolute;
+	top: 0.25em;
+	right: 0.75em;
+}
+
+header {
+	position: relative;
+	background-color: #f1d42d;
+	margin: 0px;
+	height: 1.5em;
+	padding: 0.25em 1em 0em 1em;
+}
+
+nav > a, nav > a:visited {
+	color: black;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+#outer {
+	width: 500px;
+	height: 100vh;
+	background-color: #fff;
+	margin: auto;
+	text-align: left;
+}
+
+div.content {
+	padding: 0em 1em 1em 1em;
+}

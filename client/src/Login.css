@@ -1,0 +1,34 @@
+.note {
+	color:#888; 
+	padding-top: 1em;
+}
+
+.error {
+	background-color: #eecccc;
+	padding: 0.25em;
+	margin-bottom: 1em;
+	text-align: center;	
+}
+
+.success {
+	background-color: #cceecc;
+	padding: 0.25em;
+}
+
+form div {
+	padding-bottom: 0.5em;
+}
+
+textarea {
+	width: 25em;
+	height: 12em;
+}
+
+form textarea, form input {
+	display: block;
+}
+
+input {
+	border: 1px solid #555;
+	font-size: 1em;
+}
