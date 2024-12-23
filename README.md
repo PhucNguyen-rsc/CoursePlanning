@@ -55,7 +55,7 @@ An Example Course in CourseList:
 
 ## Wireframes
 
-/
+/log in
 ![Log in Page](server/documentation/log_in.png)
 
 /courses
@@ -82,9 +82,6 @@ An Example Course in CourseList:
 /course/display
 ![Course Display Weekly Schedule Page](server/documentation/course_display.png)
 
-## Site map
-
-![Site Map](documentation/server/site_map.png)
 
 ## User Stories or Use Cases
 
