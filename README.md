@@ -68,6 +68,7 @@ An Example Course in CourseList:
 ![Courses Edit Page](server/documentation/edit_courses.png)
 
 /courses/search
+
 ![Course Search Page](server/documentation/course_search.png)
 
 /courses/search (If found)
