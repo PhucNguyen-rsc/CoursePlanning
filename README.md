@@ -51,37 +51,10 @@ An Example Course in CourseList:
 }
 ```
 
-## [Link to Commented First Draft Schema](src/db.mjs) 
+## Flow
 
-## Wireframes
+[![Video]](/server/documentation/flow.mp4)
 
-/log in
-![Log in Page](server/documentation/log_in.png)
-
-/courses
-![Courses View Page](server/documentation/course_view.png)
-
-/courses/details (view a course in details - Albert Style)
-![Courses Detail Page](server/documentation/course_detail.png)
-
-/courses/edit
-![Courses Edit Page](server/documentation/edit_courses.png)
-
-/courses/search
-
-![Course Search Page](server/documentation/course_search.png)
-
-/courses/search (If found)
-![Course Search Page Found](server/documentation/course_search_found.png)
-
-/courses/search (If not)
-![Course Search Page Not Found](server/documentation/course_search_not_found.png)
-
-/course/add
-![Course Add Page](server/documentation/course_add.png)
-
-/course/display
-![Course Display Weekly Schedule Page](server/documentation/course_display.png)
 
 
 ## User Stories or Use Cases

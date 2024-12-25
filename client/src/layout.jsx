@@ -38,9 +38,9 @@ const Layout = () =>{
                 </nav>
             </header>
             
-            <h1>Course Registering and Tracking</h1>
+            <h1 className="text-5xl font-extrabold text-black mb-6">Course Registering and Tracking</h1>
             
-            <div className="content" >
+            <div className="text-lg text-black mb-6">
             A site to keeping track of courses. Intend to mimic Albert features.
             </div>
         </> 

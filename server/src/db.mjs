@@ -1,6 +1,7 @@
 import mongoose from 'mongoose';
 import mongooseSlugPlugin from 'mongoose-slug-plugin';
 
+// console.log("HEREE: ", process.env.DSN);
 mongoose.connect(process.env.DSN);
 
 const UserSchema = new mongoose.Schema({

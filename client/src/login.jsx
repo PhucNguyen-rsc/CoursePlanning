@@ -53,7 +53,9 @@ const LoginForm = () => {
   return (  
     <form onSubmit={handleSubmit}>
       {message ? <div className="error">{message}</div> : null}
-      <h1>Log In</h1>
+      <h2 class="text-4xl font-bold text-black mb-4">
+        Log In
+      </h2>
       <div>
         <label htmlFor="username">Username:</label>
         <input 
@@ -129,7 +131,9 @@ const RegisterForm = () => {
   return (  
     <form onSubmit={handleSubmit}>
       {message ? <div className="error">{message}</div> : null}
-      <h1>Register</h1>
+      <h2 class="text-4xl font-bold text-black mb-4">
+        Register
+      </h2>
       <div>
         <label htmlFor="username">Username:</label>
         <input 
