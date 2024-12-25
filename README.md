@@ -53,7 +53,7 @@ An Example Course in CourseList:
 
 ## Flow
 
-[![Video]](/server/documentation/flow.mp4)
+![Video](https://youtu.be/kHkLsayDhjg)
 
 
 
