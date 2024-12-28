@@ -57,7 +57,7 @@ An Example Course in CourseList:
 
 
 
-## User Stories or Use Cases
+## User Use Cases
 
 1. as non-registered user, I can register a new account with the site
 2. as a user, I can log in to the site and view courses
